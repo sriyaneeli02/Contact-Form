@@ -1,0 +1,33 @@
+body{
+  background-color: antiquewhite;
+  margin: 0;
+  padding: 0;
+}
+.captcha-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .captcha-input {
+    margin-right: 10px;
+  }
+  .txt{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+  }
+  .fm{
+    display: block;
+    background-color: aqua;
+    width: 30%;
+    margin-left: 600px;
+    border-radius: 0.25rem;
+  }
+  .btn{
+    margin-left: 100px;
+  }
+  .img{
+    height: 2cm;
+    width: 3cm;
+  }
